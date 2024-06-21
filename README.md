@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="CANAL CLARO VIDEO" tvg-logo="https://th.bing.com/th?id=OIP.pNGgLjHoaknPSKZAPoSHOQHaFj&w=288&h=216&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",CANAL CLARO VIDEO
+https://api.mp4.to/static/downloads/0420543e-f616-4f18-8f50-972db2fe6cd4/video-sem-titulo-feito-com-o-clipchamp.m3u8
 #EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://th.bing.com/th?id=OIP.GsN_aLxrBoGZ34CUniNGTAHaFh&w=289&h=216&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",TVCULTURA
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
 #EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://th.bing.com/th?id=OIP.KdHO1E5jM9-H39HJydbyjgHaHZ&w=250&h=249&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",SBT
