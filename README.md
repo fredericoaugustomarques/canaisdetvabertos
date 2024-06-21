@@ -11,6 +11,36 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 https://3d30a042367404fa.mediapackage.sa-east-1.amazonaws.com/out/v1/c5e55defd54a4e57a9dd4469bf889073/index_4.m3u8
 #EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",REDEGLOBO MG
 https://anonstream.eu/globomg-globominas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",REDEGLOBO PR
+https://anonstream.eu/globopr-rpccuritiba/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",REDEGLOBO ES
+https://anonstream.eu/globoes-tvgazetavitoria/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",REDEGLOBO CE
+https://anonstream.eu/globoce-tvverdesmaresfortaleza/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",REDEGLOBO DF
+https://anonstream.eu/globodf-globobrasilia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",REDEGLOBO BA
+https://anonstream.eu/globoba-tvsudoeste/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",REDEGLOBO RJ
+https://anonstream.eu/globorj-globorio/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",REDEGLOBO RS
+https://anonstream.eu/globors-rbstvportoalegre/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",REDEGLOBO SC
+https://anonstream.eu/globosc-nsctvchapeco/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",REDEGLOBO PE
+https://anonstream.eu/globope-globonordeste/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",REDEGLOBO PB
+https://anonstream.eu/globopb-tvcabobranco/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",REDEGLOBO PI
+https://anonstream.eu/globopi-tvclube/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",REDEGLOBO MA
+https://anonstream.eu/globoma-tvmirantessaoluis/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",REDEGLOBO RN
+https://anonstream.eu/globorn-intertvcabugi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",REDEGLOBO BL
+https://anonstream.eu/globopa-tvliberalbelem/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9e/Logotipo_da_TV_Globo.png/512px-Logotipo_da_TV_Globo.png",REDEGLOBO RB
+https://anonstream.eu/globopb-tvcabobranco/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://th.bing.com/th?id=OIP.cYbQUSiAcpDOnANIkTOrvQHaHG&w=255&h=244&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",RECORDTV
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-id="CANAIS ABERTOS" tvg-logo="https://th.bing.com/th?id=OIP.kGiM4eq9apHFFnhAgdmkFwHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",TVGAZETA
